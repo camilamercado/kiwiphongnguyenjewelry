@@ -1,4 +1,8 @@
 ---
 label: Image
 hide_body: false
-fields: []
+fields:
+- name: image_post
+  type: image_gallery
+  config: {}
+  label: image post
