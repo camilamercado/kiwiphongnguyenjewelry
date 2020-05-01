@@ -7,4 +7,4 @@ categories: jewelry
 ---
 ![my image]({{site.baseurl}}/assets/KPN_Image-6.jpg)
 
-![](kiwiphongnguyenjewelry/uploads/KPN_Image-5.jpg)
+![](uploads/KPN_Image-5.jpg)
