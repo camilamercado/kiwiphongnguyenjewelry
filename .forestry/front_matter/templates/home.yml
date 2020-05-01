@@ -1,4 +1,21 @@
 ---
 label: home
 hide_body: false
-fields: []
+fields:
+- name: frame_mask
+  type: file
+  config:
+    maxSize: 64
+  label: frame mask
+- name: page_title
+  type: text
+  config:
+    required: false
+  label: page title
+- name: items_list
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: items list
